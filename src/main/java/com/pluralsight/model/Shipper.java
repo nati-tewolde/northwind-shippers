@@ -25,8 +25,8 @@ public class Shipper {
 
     @Override
     public String toString() {
-        return "ShipperID: " + shipperId +
-                "Company Name: " + companyName +
-                "Phone: " + phone;
+        return "\nShipperID: " + shipperId +
+                "\nCompany Name: " + companyName +
+                "\nPhone: " + phone;
     }
 }
